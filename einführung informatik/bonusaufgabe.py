@@ -13,3 +13,5 @@ zahl_finden(list,14)
 
 
 print()
+print()
+print()
