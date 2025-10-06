@@ -7,3 +7,9 @@ def zahl_finden (list,zahl):
         print("Ist nicht da lol")      
    
 zahl_finden(list,14)
+
+
+
+
+
+print()
